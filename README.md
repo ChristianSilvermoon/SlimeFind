@@ -1,6 +1,8 @@
 # SlimeFind
 Tool to find Slime Chunks in Minecraft
 
+Special thanks to (Minecraft Wiki (Gamepedia))[https://minecraft.gamepedia.com/Slime#.22Slime_chunks.22] for the Slime Chunk Algorithm
+
 Currently Functional, but WIP
 
 Will Improve Later.
